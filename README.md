@@ -7,6 +7,7 @@ Template for one solution with multiple projects structure.
 - [ ] You can change the project name with -n/--name command line argument
 - [ ] Create a nuget package 
 - [ ] Create default template
+- [ ] Write documentation
 - [ ] Create minimal template
 - [ ] Create template with Azure Ad Auth
 - [ ] Create template that demonstrates Fable Features
